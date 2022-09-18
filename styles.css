@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+    background-image: url(../img/layout/background.png);
+    background-color: rgb(152, 238, 216); 
+    background-attachment: fixed;
+}
